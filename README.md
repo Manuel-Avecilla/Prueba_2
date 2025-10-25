@@ -8,9 +8,8 @@ También incluye un sistema de **notificaciones** y **perfiles de usuario**.
 
 Para mantener el README principal más limpio, la documentación detallada se encuentra en los siguientes archivos:
 
-- [Guía de Instalación](docs/instalacion.md)
 - [Modelos del Sistema](docs/modelos.md)
-- [URLS del Sistema](docs/uso.md)
+- [URLS del Sistema](docs/url.md)
 
 ---
 
